@@ -52,3 +52,8 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 # What's programming all about?
 * some things to get you started thinking about the kinds of things computers do: http://pgbovine.net/computer-science.htm
+
+# Roomba docs
+
+* [irobot create manual](http://www.irobot.com/filelibrary/create/Create%20Manual_Final.pdf)
+* [irobot create open interface docs](http://www.irobot.com/filelibrary/pdfs/hrd/create/Create%20Open%20Interface_v2.pdf)
