@@ -7,6 +7,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * intro to writing shell scripts: http://linuxcommand.org/lc3_writing_shell_scripts.php
 * _the linux command line_ by william shotts - excellent book for the new command line user. full text available for free at http://linuxcommand.org/tlcl.php.
 * [command line mystery!](https://github.com/veltman/clmystery)
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 # Javascript
 * [Eloquent Javascript](http://eloquentjavascript.net/), one of the best books on the subject, with interactive tutorials.
@@ -38,6 +39,12 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 # CSS
 * http://learnlayout.com/clearfix.html - short intro to css layouts with hamsters.
+
+# Python
+* [Learn Python](http://www.learnpython.org/). 
+* [Python Tutor](http://pythontutor.com/)
+* [Codecademy](http://www.codecademy.com/en/tracks/python) Python track
+* People really like [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 
 # Regular Expressions
 
