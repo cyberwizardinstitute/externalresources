@@ -18,6 +18,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [Learn JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Clearinghouse of JavaScript resources - [Superhero.js](http://superherojs.com/).
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
+* "Beginning Javascript" - nice book to begin javascript! Ask Maribel if you'd like an e-copy.
 
 # Node.js
 * Install [Node.js](https://modejs.org)
@@ -29,6 +30,10 @@ List of good, free online resources, categorized by subject.  Add books, website
 * excellent short video tutorial on git: https://www.youtube.com/watch?v=u2rZLVWOWvs
 * excellent short video tutorial on github: https://www.youtube.com/watch?v=3cMP4oBKO34
 * Node School Git [Interactive Tutorials] (https://github.com/jlord/git-it)
+
+# IRC
+
+* https://www.linode.com/docs/applications/messaging/using-irssi-for-internet-relay-chat - great guide on setting up irc so that you're always online.
 
 # HTML5 and Front-end Web Development
 * Mozilla's Developer Network [MDN](https://developer.mozilla.org/en-US/) provides a great reference for open web standards, Javascript, the DOM, and general web development.
