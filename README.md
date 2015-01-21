@@ -18,7 +18,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [Learn JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Clearinghouse of JavaScript resources - [Superhero.js](http://superherojs.com/).
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
-* "Beginning Javascript" - nice book to begin javascript! Ask Maribel if you'd like an e-copy.
+* "Beginning Javascript" - nice book to begin javascript!
 
 # Node.js
 * Install [Node.js](https://modejs.org)
