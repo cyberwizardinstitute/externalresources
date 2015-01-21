@@ -25,7 +25,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * Node.js [API Reference](http://nodejs.org/api/)
 * Interactive code lessons [Node School](nodeschool.io), many of which are Node.js specific.
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
-* 
+ 
 # Git & Github
 * excellent short video tutorial on git: https://www.youtube.com/watch?v=u2rZLVWOWvs
 * excellent short video tutorial on github: https://www.youtube.com/watch?v=3cMP4oBKO34
