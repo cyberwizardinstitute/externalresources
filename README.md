@@ -19,9 +19,9 @@ List of good, free online resources, categorized by subject.  Add books, website
 * Clearinghouse of JavaScript resources - [Superhero.js](http://superherojs.com/).
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
 * "Beginning Javascript" - nice book to begin javascript!
-*[Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/blob/master/readme.md) - JavaScript style guide
-*[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - another JavaScript style guide
-*[JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/) - documentation on JavaScript, available in different languages
+* [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/blob/master/readme.md) - JavaScript style guide
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - another JavaScript style guide
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/) - documentation on JavaScript, available in different languages
 
 # Node.js
 * Install [Node.js](https://modejs.org)
