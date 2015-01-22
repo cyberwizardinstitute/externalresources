@@ -66,7 +66,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 # Tutorials About Everything
 * [Bento](https://www.bento.io/) has curated tutorials about HTML, CSS, JavaScript, Databases, and more!
-*[Khan Academy](https://www.khanacademy.org/) - Free practice exercises and videos about a variety of subjects! Includes sections on math, computer science (algorithms, cryptography and information theory), and computer programming tutorials for JavaScript, HTML, and CSS
+* [Khan Academy](https://www.khanacademy.org/) - Free practice exercises and videos about a variety of subjects! Includes sections on math, computer science (algorithms, cryptography and information theory), and computer programming tutorials for JavaScript, HTML, and CSS
 
 # What's programming all about?
 * some things to get you started thinking about the kinds of things computers do: http://pgbovine.net/computer-science.htm
