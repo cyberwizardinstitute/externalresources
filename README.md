@@ -75,3 +75,12 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 * [irobot create manual](http://www.irobot.com/filelibrary/create/Create%20Manual_Final.pdf)
 * [irobot create open interface docs](http://www.irobot.com/filelibrary/pdfs/hrd/create/Create%20Open%20Interface_v2.pdf)
+
+# More Free Learning Resources
+
+* [reSRC: Victor Felder's Github repository](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) - This Open Source project is maintained on Github as a master reference list of programming/Computer Science books and resources released under a Creative Commons license, and is available in other languages as well. (Check with the author, publisher, and or content creator's website for details on what the Creative Commons license covers).
+
+
+* [reSRC: Intro Page](https://github.com/vhf/free-programming-books) - Victor Felder's Github intro page, which links free podcasts, JavaScript frameworks, interactive resources, and software testing books.
+
+Disclaimer: The software testing books point to another repo maintained by another person. Please check with the author, creator or publisher to verify the copyright terms on these books.
