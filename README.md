@@ -76,6 +76,11 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [irobot create manual](http://www.irobot.com/filelibrary/create/Create%20Manual_Final.pdf)
 * [irobot create open interface docs](http://www.irobot.com/filelibrary/pdfs/hrd/create/Create%20Open%20Interface_v2.pdf)
 
+# Working with sources of data
+
+* How to make a node app with the LocalWiki API (see: http://localwiki.org and https://localwiki.org/api/v4/): http://learnjs.io/blog/2014/02/11/hyperquest-director-handlebars-example-app/
+* [Crime doesn't climb](https://github.com/gwintrob/crime-doesnt-climb/blob/master/README.md) - great writeup that walks you through doing a data analysis and visualization with a source of open data. uses node.
+
 # More Free Learning Resources
 
 * [reSRC: Victor Felder's Github repository](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) - This Open Source project is maintained on Github as a master reference list of programming/Computer Science books and resources released under a Creative Commons license, and is available in other languages as well. (Check with the author, publisher, and or content creator's website for details on what the Creative Commons license covers).
