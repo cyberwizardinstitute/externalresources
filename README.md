@@ -24,7 +24,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/) - documentation on JavaScript, available in different languages
 
 # Node.js
-* Install [Node.js](https://modejs.org)
+* Install [Node.js](https://nodejs.org)
 * Node.js [API Reference](http://nodejs.org/api/)
 * Interactive code lessons [Node School](nodeschool.io), many of which are Node.js specific.
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
