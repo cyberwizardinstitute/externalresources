@@ -22,17 +22,24 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/blob/master/readme.md) - JavaScript style guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - another JavaScript style guide
 * [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/) - documentation on JavaScript, available in different languages
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md) - Series of books diving deep into the core mechanisms of the JavaScript language.
+* [Fight Code](http://fightcodegame.com/) - Engage in a death battle with your JavaScript powered robot.
+* [Untrusted](http://alexnisnevich.github.io/untrusted/) - Learn Javascript to level up in an interactive game.
+
 
 # Node.js
 * Install [Node.js](https://nodejs.org)
 * Node.js [API Reference](http://nodejs.org/api/)
 * Interactive code lessons [Node School](nodeschool.io), many of which are Node.js specific.
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
+* [Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to Node.js.
+* [Node for Beginners](https://github.com/rockbot/node-for-beginners) - A list of resources for Node.js newbies.
  
 # Git & Github
 * excellent short video tutorial on git: https://www.youtube.com/watch?v=u2rZLVWOWvs
 * excellent short video tutorial on github: https://www.youtube.com/watch?v=3cMP4oBKO34
 * Node School Git [Interactive Tutorials] (https://github.com/jlord/git-it)
+* [Try Git](https://try.github.io) - Online interactive workshop.
 
 # IRC
 
