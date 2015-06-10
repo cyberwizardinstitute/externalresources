@@ -25,6 +25,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md) - Series of books diving deep into the core mechanisms of the JavaScript language.
 * [Fight Code](http://fightcodegame.com/) - Engage in a death battle with your JavaScript powered robot.
 * [Untrusted](http://alexnisnevich.github.io/untrusted/) - Learn Javascript to level up in an interactive game.
+* [Human JavaScript](http://read.humanjavascript.com/) - Separate server concerns from client concerns, and write minimal, modular, and (most importantly) human-readable code.
 
 
 # Node.js
