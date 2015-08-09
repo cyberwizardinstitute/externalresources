@@ -66,7 +66,9 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 * _Mastering Regular Expressions_ by Jeffrey Friedl. [full text here](http://dl.e-book-free.com/2013/07/mastering_regular_expressions_third_edition.pdf).
 * [Regular Expressions on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [Learn Regex the Hard Way](http://regex.learncodethehardway.org/)
 * http://www.regexr.com/ - excellent interactive site for trying out and learning regex.
+* https://regex101.com - another interactive regex site.  Has a good explainer.
 
 # Mac OSX
 * [homebrew](http://brew.sh/) - package management for OSX
