@@ -51,7 +51,6 @@ List of good, free online resources, categorized by subject.  Add books, website
 * Articles and demos of HTML5 APIs [HTML5 Rocks](http://www.html5rocks.com/en/)
 * [Browserify](http://browserify.org/), the modular, front-end build complex powered by NPM
 * [Require Bin](http://requirebin.com/) - build and test browserify compatible front-end modules 
-* Node Module Club (node.module.club) - like requirebin, except for "live code".
 
 # CSS
 * http://learnlayout.com/clearfix.html - short intro to css layouts with hamsters.
