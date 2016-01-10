@@ -49,9 +49,8 @@ List of good, free online resources, categorized by subject.  Add books, website
 # HTML5 and Front-end Web Development
 * Mozilla's Developer Network [MDN](https://developer.mozilla.org/en-US/) provides a great reference for open web standards, Javascript, the DOM, and general web development.
 * Articles and demos of HTML5 APIs [HTML5 Rocks](http://www.html5rocks.com/en/)
-* [Browserify](browserify.org), the modular, front-end build complex powered by NPM
-* [Require Bin](requirebin.com) - build and test browserify compatible front-end modules 
-* [Node Module Club](node.module.club) - like requirebin, except for "live code".
+* [Browserify](http://browserify.org/), the modular, front-end build complex powered by NPM
+* [Require Bin](http://requirebin.com/) - build and test browserify compatible front-end modules 
 
 # CSS
 * http://learnlayout.com/clearfix.html - short intro to css layouts with hamsters.
