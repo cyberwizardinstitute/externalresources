@@ -41,6 +41,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * excellent short video tutorial on github: https://www.youtube.com/watch?v=3cMP4oBKO34
 * Node School Git [Interactive Tutorials] (https://github.com/jlord/git-it)
 * [Try Git](https://try.github.io) - Online interactive workshop.
+* If the porcelain is confusing you, [learning about the plumbing](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.jtdgvonju) might help!
 
 # IRC
 
@@ -60,7 +61,7 @@ List of good, free online resources, categorized by subject.  Add books, website
 * [Learn Python](http://www.learnpython.org/). 
 * [Python Tutor](http://pythontutor.com/)
 * [Codecademy](http://www.codecademy.com/en/tracks/python) Python track
-* People really like [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+* People really like [Learn Python The Hard Way](http://learnpythonthehardway.org/) Note - this is a little outdated--learning Python 3 is more important now than when this was written. It's still a useful resource, though.
 
 # Regular Expressions
 
