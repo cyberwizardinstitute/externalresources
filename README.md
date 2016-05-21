@@ -2,6 +2,8 @@ List of good, free online resources, categorized by subject.  Add books, website
 
 # Unix 
 
+YAY!
+
 # Shell / Bash
 * excellent short video tutorials on the basics of bash: http://pgbovine.net/command-line-tutorial.htm . highly recommended for folks who are totally new to the command line.
 * intro to writing shell scripts: http://linuxcommand.org/lc3_writing_shell_scripts.php
