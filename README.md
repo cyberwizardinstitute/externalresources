@@ -14,7 +14,7 @@ YAY!
 # Javascript
 * [Eloquent Javascript](http://eloquentjavascript.net/), one of the best books on the subject, with interactive tutorials.
 * http://jsforcats.com/ - A+ short intro.
-* Interactive code lessons [Node School](nodeschool.io), some of which cover basic and advanced JS.
+* Interactive code lessons [Node School](https://nodeschool.io), some of which cover basic and advanced JS.
 * Coderbyte - toy problems to practice your JavaScript (or any language) skills. (http://coderbyte.com/CodingArea/Challenges/).
 * [JavaScriptIsSexy](http://javascriptissexy.com/) has some good information about JavaScript in some depth. For example, here's a post on scope and hoisting [here](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 * [Learn JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -33,7 +33,7 @@ YAY!
 # Node.js
 * Install [Node.js](https://nodejs.org)
 * Node.js [API Reference](http://nodejs.org/api/)
-* Interactive code lessons [Node School](nodeschool.io), many of which are Node.js specific.
+* Interactive code lessons [Node School](https://nodeschool.io), many of which are Node.js specific.
 * [NPM](https://www.npmjs.com/) - Home to 100K open source javascript modules
 * [Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to Node.js.
 * [Node for Beginners](https://github.com/rockbot/node-for-beginners) - A list of resources for Node.js newbies.
@@ -79,7 +79,7 @@ YAY!
 # Tutorials About Everything
 * [Bento](https://www.bento.io/) has curated tutorials about HTML, CSS, JavaScript, Databases, and more!
 * [Khan Academy](https://www.khanacademy.org/) - Free practice exercises and videos about a variety of subjects! Includes sections on math, computer science (algorithms, cryptography and information theory), and computer programming tutorials for JavaScript, HTML, and CSS
-* [Exercism](http://exercism.io/) is similar to [nodeschool](http://nodeschool.io), in that it is run from the command line, and the lessons are contributed by community members. Lessons are available for several languages, including JavaScript. No node lessons (use nodeschool to learn you the node.js!).
+* [Exercism](http://exercism.io/) is similar to [nodeschool](https://nodeschool.io), in that it is run from the command line, and the lessons are contributed by community members. Lessons are available for several languages, including JavaScript. No node lessons (use nodeschool to learn you the node.js!).
 * [codewars](http://www.codewars.com) is similar to Exercism, but in the browser.
 
 # What's programming all about?
