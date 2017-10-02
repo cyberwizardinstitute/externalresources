@@ -16,6 +16,7 @@ YAY!
 * http://jsforcats.com/ - A+ short intro.
 * Interactive code lessons [Node School](https://nodeschool.io), some of which cover basic and advanced JS.
 * Coderbyte - toy problems to practice your JavaScript (or any language) skills. (http://coderbyte.com/CodingArea/Challenges/).
+* [Paqmind](http://paqmind.com) - learning platform dedicated to programming and web development. Hundreds of exercises with solutions and explanations.
 * [JavaScriptIsSexy](http://javascriptissexy.com/) has some good information about JavaScript in some depth. For example, here's a post on scope and hoisting [here](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/).
 * [Learn JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Clearinghouse of JavaScript resources - [Superhero.js](http://superherojs.com/).
